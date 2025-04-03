@@ -1,5 +1,5 @@
 import { Stack } from "expo-router";
-import { StoreProvider } from "./context/StoreContext";
+import { StoreProvider } from "../src/context/StoreContext";
 
 export default function RootLayout() {
   return (
